@@ -2,7 +2,10 @@
 
 As described in the [git-basics
 chapter](https://info201.github.io/git-basics.html), you should begin
-by forking this repository, then cloning it to your local machine.
+by forking this repository, then cloning it to your local machine.hh
+
+
+THis is a pen. Practice makes perfect.
 
 Then, in the space below, put your favorite quote in a block quote,
 and provide a link to a website that provides additional information
